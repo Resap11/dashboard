@@ -41,8 +41,8 @@ Jika Anda ingin menjalankan proyek ini di komputer Anda sendiri, ikuti langkah-l
 
 **2. Clone Repository:**
    ```bash
-   git clone [https://github.com/r1afif18/Moon1.git](https://github.com/r1afif18/Moon1.git)
-   cd Moon1
+   git clone [https://github.com/Resap11/dashboard.git](https://github.com/Resap11/dashboard.git)
+   cd dashboard
    ```
 
 **3. Install Dependencies:**
