@@ -1,0 +1,201 @@
+Date,Platform,Sentiment,Location,Engagements,Media_Type,Influencer_Brand,Post_Type
+2024-03-05,YouTube,Positive,Denpasar,3415,Video,@drinkculture | SwizzleSip,Product Launch
+2024-03-02,X/Twitter,Positive,Medan,4849,Carousel,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-26,X/Twitter,Positive,Jakarta,2483,Video,@kulinerhits | SwizzleSip,Review
+2024-03-09,YouTube,Positive,Bandung,7918,Text,@tastebuds.id | SwizzleSip,Promo
+2024-03-30,X/Twitter,Positive,Denpasar,13059,Video,@snackattack | SwizzleSip,Product Launch
+2024-03-29,TikTok,Neutral,Makassar,537,Video,@kulinerhits | SwizzleSip,Product Launch
+2024-03-04,YouTube,Positive,Bandung,7201,Carousel,@tastebuds.id | SwizzleSip,Promo
+2024-03-17,Instagram,Positive,Makassar,19829,Text,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-27,Instagram,Positive,Jakarta,14531,Carousel,@drinkculture | SwizzleSip,Review
+2024-03-08,TikTok,Positive,Denpasar,6660,Text,@snackattack | SwizzleSip,Collab
+2024-03-25,X/Twitter,Positive,Yogyakarta,14115,Carousel,@kulinerhits | SwizzleSip,Product Launch
+2024-03-12,Instagram,Neutral,Bandung,3613,Text,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-03,YouTube,Neutral,Medan,10409,Video,@kulinerhits | SwizzleSip,Review
+2024-03-21,YouTube,Positive,Jakarta,14144,Image,@snackattack | SwizzleSip,Review
+2024-03-31,Instagram,Positive,Jakarta,2184,Carousel,@genzfoodie | SwizzleSip,Review
+2024-03-07,YouTube,Negative,Surabaya,14315,Carousel,@genzfoodie | SwizzleSip,Review
+2024-03-12,Instagram,Negative,Makassar,14521,Text,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-30,Instagram,Neutral,Makassar,4659,Carousel,@genzfoodie | SwizzleSip,Product Launch
+2024-03-14,TikTok,Neutral,Yogyakarta,18805,Carousel,@drinkculture | SwizzleSip,Review
+2024-03-30,Instagram,Positive,Yogyakarta,9251,Image,@genzfoodie | SwizzleSip,Collab
+2024-03-17,YouTube,Positive,Makassar,4970,Image,@kulinerhits | SwizzleSip,Collab
+2024-03-22,Instagram,Positive,Denpasar,9605,Carousel,@drinkculture | SwizzleSip,Product Launch
+2024-03-21,X/Twitter,Positive,Jakarta,12462,Text,@drinkculture | SwizzleSip,Product Launch
+2024-03-05,Instagram,Neutral,Denpasar,5434,Text,@genzfoodie | SwizzleSip,Collab
+2024-03-09,YouTube,Positive,Surabaya,6934,Image,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-24,X/Twitter,Negative,Makassar,1894,Video,@kulinerhits | SwizzleSip,Review
+2024-03-11,Instagram,Positive,Surabaya,17977,Video,@tastebuds.id | SwizzleSip,Collab
+2024-03-27,YouTube,Positive,Denpasar,19601,Image,@drinkculture | SwizzleSip,Collab
+2024-03-22,YouTube,Negative,Bandung,13251,Text,@genzfoodie | SwizzleSip,Promo
+2024-03-04,X/Twitter,Positive,Surabaya,7376,Text,@kulinerhits | SwizzleSip,Review
+2024-03-22,X/Twitter,Positive,Yogyakarta,17019,Image,@genzfoodie | SwizzleSip,Product Launch
+2024-03-12,YouTube,Positive,Yogyakarta,5948,Image,@kulinerhits | SwizzleSip,Product Launch
+2024-03-19,YouTube,Positive,Medan,19387,Image,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-02,Instagram,Positive,Yogyakarta,11274,Video,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-06,X/Twitter,Neutral,Makassar,7224,Video,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-25,TikTok,Negative,Medan,12835,Text,@snackattack | SwizzleSip,Collab
+2024-03-29,TikTok,Neutral,Bandung,11835,Carousel,@kulinerhits | SwizzleSip,Promo
+2024-03-13,TikTok,Positive,Surabaya,2779,Video,@tastebuds.id | SwizzleSip,Promo
+2024-03-15,X/Twitter,Neutral,Makassar,1101,Text,@snackattack | SwizzleSip,Promo
+2024-03-09,X/Twitter,Neutral,Jakarta,17069,Video,@genzfoodie | SwizzleSip,Review
+2024-03-18,X/Twitter,Neutral,Makassar,15569,Image,@tastebuds.id | SwizzleSip,Promo
+2024-03-10,Instagram,Positive,Denpasar,8316,Text,@drinkculture | SwizzleSip,Collab
+2024-03-10,TikTok,Neutral,Makassar,7075,Text,@snackattack | SwizzleSip,Promo
+2024-03-08,TikTok,Neutral,Jakarta,10184,Carousel,@drinkculture | SwizzleSip,Promo
+2024-03-03,Instagram,Negative,Bandung,19904,Carousel,@genzfoodie | SwizzleSip,Collab
+2024-03-28,TikTok,Positive,Makassar,137,Text,@drinkculture | SwizzleSip,Collab
+2024-03-28,X/Twitter,Positive,Surabaya,6336,Image,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-15,YouTube,Positive,Bandung,3132,Video,@snackattack | SwizzleSip,Review
+2024-03-12,TikTok,Positive,Makassar,1238,Image,@genzfoodie | SwizzleSip,Collab
+2024-03-11,Instagram,Negative,Yogyakarta,10302,Text,@drinkculture | SwizzleSip,Collab
+2024-03-18,X/Twitter,Positive,Bandung,2991,Image,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-10,YouTube,Neutral,Surabaya,4737,Carousel,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-11,TikTok,Positive,Jakarta,7779,Video,@genzfoodie | SwizzleSip,Product Launch
+2024-03-30,YouTube,Positive,Yogyakarta,6808,Text,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-30,X/Twitter,Positive,Bandung,4546,Carousel,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-17,Instagram,Positive,Surabaya,18686,Carousel,@kulinerhits | SwizzleSip,Collab
+2024-03-31,X/Twitter,Positive,Makassar,10937,Video,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-06,Instagram,Positive,Medan,1524,Text,@kulinerhits | SwizzleSip,Collab
+2024-03-11,TikTok,Neutral,Makassar,8463,Video,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-23,Instagram,Positive,Bandung,4112,Video,@snackattack | SwizzleSip,Promo
+2024-03-26,YouTube,Positive,Yogyakarta,1066,Image,@genzfoodie | SwizzleSip,Promo
+2024-03-24,X/Twitter,Positive,Bandung,2072,Image,@kulinerhits | SwizzleSip,Collab
+2024-03-07,Instagram,Neutral,Medan,17311,Video,@drinkculture | SwizzleSip,Collab
+2024-03-23,X/Twitter,Positive,Jakarta,6347,Video,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-17,TikTok,Positive,Denpasar,17223,Carousel,@tastebuds.id | SwizzleSip,Collab
+2024-03-29,YouTube,Positive,Bandung,12015,Image,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-23,YouTube,Neutral,Surabaya,16539,Video,@genzfoodie | SwizzleSip,Product Launch
+2024-03-13,Instagram,Positive,Surabaya,3251,Text,@snackattack | SwizzleSip,Product Launch
+2024-03-19,Instagram,Neutral,Makassar,15096,Image,@genzfoodie | SwizzleSip,Collab
+2024-03-21,TikTok,Positive,Makassar,16268,Text,@drinkculture | SwizzleSip,Collab
+2024-03-18,TikTok,Neutral,Medan,18193,Video,@snackattack | SwizzleSip,Review
+2024-03-19,YouTube,Neutral,Denpasar,15029,Carousel,@snackattack | SwizzleSip,Review
+2024-03-28,YouTube,Positive,Medan,14185,Image,@kulinerhits | SwizzleSip,Promo
+2024-03-08,X/Twitter,Positive,Yogyakarta,3156,Text,@kulinerhits | SwizzleSip,Review
+2024-03-23,X/Twitter,Positive,Medan,4205,Carousel,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-24,X/Twitter,Negative,Makassar,10490,Image,@genzfoodie | SwizzleSip,Product Launch
+2024-03-13,TikTok,Positive,Surabaya,11503,Image,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-15,X/Twitter,Positive,Makassar,7038,Carousel,@tastebuds.id | SwizzleSip,Promo
+2024-03-24,Instagram,Positive,Jakarta,5957,Video,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-11,X/Twitter,Neutral,Jakarta,14678,Carousel,@genzfoodie | SwizzleSip,Review
+2024-03-08,Instagram,Positive,Denpasar,14506,Carousel,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-17,YouTube,Positive,Makassar,15193,Carousel,@genzfoodie | SwizzleSip,Collab
+2024-03-19,Instagram,Positive,Yogyakarta,12941,Image,@tastebuds.id | SwizzleSip,Promo
+2024-03-02,YouTube,Positive,Jakarta,10917,Text,@kulinerhits | SwizzleSip,Product Launch
+2024-03-30,Instagram,Positive,Yogyakarta,9456,Video,@drinkculture | SwizzleSip,Review
+2024-03-05,YouTube,Positive,Makassar,10206,Image,@snackattack | SwizzleSip,Product Launch
+2024-03-06,YouTube,Neutral,Surabaya,11372,Carousel,@drinkculture | SwizzleSip,Review
+2024-03-13,TikTok,Positive,Bandung,7244,Text,@kulinerhits | SwizzleSip,Product Launch
+2024-03-25,YouTube,Positive,Makassar,19766,Image,@genzfoodie | SwizzleSip,Promo
+2024-03-19,Instagram,Negative,Yogyakarta,19172,Video,@genzfoodie | SwizzleSip,Promo
+2024-03-13,Instagram,Positive,Makassar,12163,Carousel,@snackattack | SwizzleSip,Product Launch
+2024-03-26,TikTok,Positive,Makassar,11660,Text,@snackattack | SwizzleSip,Review
+2024-03-07,Instagram,Neutral,Denpasar,11373,Text,@snackattack | SwizzleSip,Collab
+2024-03-05,Instagram,Positive,Medan,1153,Video,@genzfoodie | SwizzleSip,Collab
+2024-03-09,Instagram,Neutral,Surabaya,5297,Carousel,@drinkculture | SwizzleSip,Promo
+2024-03-13,TikTok,Neutral,Surabaya,13108,Video,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-11,Instagram,Neutral,Surabaya,16657,Video,@genzfoodie | SwizzleSip,Review
+2024-03-06,YouTube,Neutral,Bandung,12063,Image,@drinkculture | SwizzleSip,Collab
+2024-03-14,X/Twitter,Positive,Yogyakarta,5025,Image,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-11,Instagram,Neutral,Bandung,6329,Carousel,@kulinerhits | SwizzleSip,Product Launch
+2024-03-26,X/Twitter,Neutral,Bandung,3140,Carousel,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-06,YouTube,Neutral,Medan,15678,Carousel,@snackattack | SwizzleSip,Collab
+2024-03-14,Instagram,Positive,Yogyakarta,393,Text,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-29,YouTube,Positive,Makassar,4068,Image,@tastebuds.id | SwizzleSip,Promo
+2024-03-26,X/Twitter,Negative,Medan,6007,Carousel,@kulinerhits | SwizzleSip,Review
+2024-03-28,TikTok,Positive,Makassar,18052,Image,@kulinerhits | SwizzleSip,Promo
+2024-03-19,X/Twitter,Positive,Denpasar,1598,Text,@genzfoodie | SwizzleSip,Collab
+2024-03-27,Instagram,Neutral,Makassar,10505,Image,@snackattack | SwizzleSip,Review
+2024-03-26,X/Twitter,Positive,Makassar,7672,Image,@tastebuds.id | SwizzleSip,Collab
+2024-03-18,Instagram,Neutral,Medan,7042,Image,@drinkculture | SwizzleSip,Review
+2024-03-12,X/Twitter,Positive,Bandung,18922,Video,@genzfoodie | SwizzleSip,Promo
+2024-03-08,Instagram,Neutral,Yogyakarta,2366,Image,@snackattack | SwizzleSip,Product Launch
+2024-03-30,YouTube,Positive,Makassar,7716,Image,@genzfoodie | SwizzleSip,Review
+2024-03-08,Instagram,Neutral,Bandung,19385,Text,@kulinerhits | SwizzleSip,Promo
+2024-03-20,YouTube,Neutral,Jakarta,15671,Image,@kulinerhits | SwizzleSip,Product Launch
+2024-03-15,Instagram,Positive,Makassar,886,Video,@snackattack | SwizzleSip,Collab
+2024-03-23,Instagram,Neutral,Makassar,16519,Text,@tastebuds.id | SwizzleSip,Collab
+2024-03-01,YouTube,Positive,Denpasar,13798,Image,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-19,TikTok,Positive,Bandung,17626,Text,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-10,X/Twitter,Positive,Bandung,3349,Text,@snackattack | SwizzleSip,Promo
+2024-03-25,X/Twitter,Positive,Medan,5425,Text,@drinkculture | SwizzleSip,Product Launch
+2024-03-08,YouTube,Positive,Medan,8837,Video,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-21,YouTube,Positive,Jakarta,10117,Video,@kulinerhits | SwizzleSip,Review
+2024-03-21,Instagram,Neutral,Jakarta,9549,Image,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-09,X/Twitter,Negative,Jakarta,18352,Video,@drinkculture | SwizzleSip,Collab
+2024-03-24,YouTube,Neutral,Yogyakarta,4223,Video,@kulinerhits | SwizzleSip,Review
+2024-03-21,TikTok,Neutral,Bandung,4498,Image,@kulinerhits | SwizzleSip,Promo
+2024-03-05,TikTok,Neutral,Yogyakarta,6852,Image,@drinkculture | SwizzleSip,Promo
+2024-03-29,YouTube,Positive,Medan,15444,Image,@snackattack | SwizzleSip,Collab
+2024-03-04,X/Twitter,Positive,Surabaya,18273,Text,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-05,YouTube,Positive,Bandung,6634,Carousel,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-29,TikTok,Negative,Yogyakarta,7802,Video,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-06,YouTube,Positive,Makassar,3322,Image,@snackattack | SwizzleSip,Promo
+2024-03-23,X/Twitter,Negative,Jakarta,7755,Carousel,@kulinerhits | SwizzleSip,Collab
+2024-03-17,Instagram,Positive,Makassar,10514,Text,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-29,TikTok,Negative,Yogyakarta,11216,Carousel,@kulinerhits | SwizzleSip,Product Launch
+2024-03-04,Instagram,Positive,Jakarta,6277,Image,@drinkculture | SwizzleSip,Review
+2024-03-27,X/Twitter,Negative,Yogyakarta,13021,Text,@tastebuds.id | SwizzleSip,Review
+2024-03-02,X/Twitter,Neutral,Denpasar,7975,Video,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-16,Instagram,Positive,Yogyakarta,3630,Text,@genzfoodie | SwizzleSip,Collab
+2024-03-03,YouTube,Neutral,Surabaya,5611,Carousel,@kulinerhits | SwizzleSip,Collab
+2024-03-20,X/Twitter,Positive,Jakarta,9646,Carousel,@genzfoodie | SwizzleSip,Product Launch
+2024-03-21,X/Twitter,Neutral,Makassar,2650,Image,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-23,X/Twitter,Positive,Jakarta,8895,Video,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-18,TikTok,Positive,Denpasar,6562,Image,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-19,YouTube,Positive,Denpasar,2999,Carousel,@genzfoodie | SwizzleSip,Promo
+2024-03-29,Instagram,Positive,Bandung,18364,Video,@snackattack | SwizzleSip,Collab
+2024-03-07,YouTube,Positive,Jakarta,10274,Video,@genzfoodie | SwizzleSip,Product Launch
+2024-03-04,YouTube,Neutral,Denpasar,17685,Video,@genzfoodie | SwizzleSip,Product Launch
+2024-03-20,TikTok,Neutral,Bandung,1893,Text,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-24,YouTube,Positive,Yogyakarta,13402,Carousel,@drinkculture | SwizzleSip,Collab
+2024-03-23,YouTube,Neutral,Makassar,206,Image,@snackattack | SwizzleSip,Promo
+2024-03-10,X/Twitter,Positive,Surabaya,5620,Text,@genzfoodie | SwizzleSip,Collab
+2024-03-30,X/Twitter,Neutral,Medan,6578,Text,@drinkculture | SwizzleSip,Product Launch
+2024-03-04,Instagram,Positive,Jakarta,19428,Video,@tastebuds.id | SwizzleSip,Behind the Scenes
+2024-03-28,TikTok,Positive,Medan,6337,Text,@genzfoodie | SwizzleSip,Product Launch
+2024-03-07,X/Twitter,Positive,Surabaya,8599,Video,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-22,Instagram,Neutral,Yogyakarta,7465,Carousel,@kulinerhits | SwizzleSip,Promo
+2024-03-10,Instagram,Positive,Surabaya,6621,Image,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-26,YouTube,Negative,Denpasar,8518,Image,@snackattack | SwizzleSip,Promo
+2024-03-20,TikTok,Positive,Medan,18137,Text,@drinkculture | SwizzleSip,Review
+2024-03-01,YouTube,Positive,Makassar,16731,Video,@drinkculture | SwizzleSip,Review
+2024-03-14,YouTube,Neutral,Jakarta,16292,Image,@drinkculture | SwizzleSip,Product Launch
+2024-03-04,TikTok,Positive,Denpasar,14787,Text,@genzfoodie | SwizzleSip,Collab
+2024-03-02,Instagram,Neutral,Bandung,17784,Image,@kulinerhits | SwizzleSip,Review
+2024-03-12,TikTok,Positive,Denpasar,5059,Carousel,@drinkculture | SwizzleSip,Review
+2024-03-21,X/Twitter,Positive,Denpasar,11583,Text,@kulinerhits | SwizzleSip,Review
+2024-03-23,YouTube,Negative,Denpasar,17350,Text,@snackattack | SwizzleSip,Behind the Scenes
+2024-03-13,YouTube,Positive,Medan,12405,Image,@genzfoodie | SwizzleSip,Collab
+2024-03-29,X/Twitter,Neutral,Jakarta,13375,Carousel,@snackattack | SwizzleSip,Promo
+2024-03-05,Instagram,Positive,Medan,3121,Image,@drinkculture | SwizzleSip,Collab
+2024-03-08,TikTok,Neutral,Makassar,8121,Carousel,@tastebuds.id | SwizzleSip,Promo
+2024-03-24,Instagram,Neutral,Jakarta,19439,Image,@kulinerhits | SwizzleSip,Product Launch
+2024-03-12,Instagram,Negative,Medan,8896,Video,@drinkculture | SwizzleSip,Product Launch
+2024-03-29,Instagram,Positive,Jakarta,18889,Image,@genzfoodie | SwizzleSip,Review
+2024-03-01,Instagram,Positive,Makassar,16473,Text,@snackattack | SwizzleSip,Review
+2024-03-01,Instagram,Positive,Bandung,17924,Video,@snackattack | SwizzleSip,Promo
+2024-03-19,YouTube,Negative,Surabaya,10252,Image,@tastebuds.id | SwizzleSip,Review
+2024-03-24,YouTube,Neutral,Denpasar,9330,Text,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-27,TikTok,Neutral,Denpasar,14569,Text,@kulinerhits | SwizzleSip,Review
+2024-03-24,X/Twitter,Positive,Makassar,8935,Image,@drinkculture | SwizzleSip,Product Launch
+2024-03-16,Instagram,Neutral,Surabaya,9043,Carousel,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-12,Instagram,Positive,Surabaya,7608,Text,@genzfoodie | SwizzleSip,Promo
+2024-03-24,X/Twitter,Positive,Medan,10597,Text,@drinkculture | SwizzleSip,Collab
+2024-03-18,TikTok,Positive,Yogyakarta,18292,Text,@drinkculture | SwizzleSip,Promo
+2024-03-04,YouTube,Positive,Jakarta,6134,Text,@tastebuds.id | SwizzleSip,Product Launch
+2024-03-25,TikTok,Neutral,Makassar,2919,Carousel,@genzfoodie | SwizzleSip,Product Launch
+2024-03-01,X/Twitter,Neutral,Makassar,3350,Text,@snackattack | SwizzleSip,Promo
+2024-03-18,YouTube,Positive,Jakarta,14866,Text,@genzfoodie | SwizzleSip,Collab
+2024-03-25,YouTube,Positive,Makassar,10592,Carousel,@tastebuds.id | SwizzleSip,Collab
+2024-03-22,YouTube,Neutral,Jakarta,7483,Image,@drinkculture | SwizzleSip,Promo
+2024-03-20,Instagram,Positive,Makassar,4556,Text,@drinkculture | SwizzleSip,Product Launch
+2024-03-05,TikTok,Positive,Denpasar,5519,Text,@kulinerhits | SwizzleSip,Behind the Scenes
+2024-03-01,YouTube,Positive,Surabaya,16890,Carousel,@genzfoodie | SwizzleSip,Product Launch
+2024-03-13,YouTube,Positive,Yogyakarta,13155,Image,@genzfoodie | SwizzleSip,Product Launch
+2024-03-17,TikTok,Neutral,Surabaya,6158,Carousel,@drinkculture | SwizzleSip,Behind the Scenes
+2024-03-24,TikTok,Neutral,Bandung,6090,Video,@genzfoodie | SwizzleSip,Behind the Scenes
+2024-03-18,X/Twitter,Positive,Surabaya,2134,Carousel,@tastebuds.id | SwizzleSip,Promo
+2024-03-13,Instagram,Negative,Yogyakarta,1963,Carousel,@genzfoodie | SwizzleSip,Collab
+2024-03-10,TikTok,Positive,Denpasar,1983,Text,@genzfoodie | SwizzleSip,Behind the Scenes
